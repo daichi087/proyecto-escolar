@@ -1,7 +1,7 @@
 Proyecto: sistema de gestion escolar
 
 integrantes:
--Gerson Sotp
+-Gerson Soto
 -3ro C
 
 Descripcion
